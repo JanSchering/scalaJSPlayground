@@ -1,0 +1,7 @@
+.bsp/**
+target/**
+
+project/project/**
+project/target/**
+
+node_modules/**
